@@ -1,5 +1,5 @@
-import random
-
+import random 
+uusername "pwurrity"
 lower = "abcdefghijklmnopqrstuvwxyz"
 upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 numbers = "1234567890"
@@ -10,4 +10,4 @@ length = 12
 
 password = "".join(random.sample(string,length))
 
-print("Password: " + password)
+print("Password: 12345@ " + password)
